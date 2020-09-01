@@ -2,8 +2,8 @@
 Practice of using rabbitMQ
 
 # Setup & Dependencies
-Install & start RabbitMQ server__
-Run setup.sh to install dependencies__
+Install & start RabbitMQ server <br />
+Run setup.sh to install dependencies <br />
 "go run"
 
 # Go Version
