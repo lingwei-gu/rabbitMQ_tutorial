@@ -2,7 +2,7 @@
 Practice of using rabbitMQ
 
 # Setup & Dependencies
-1. Install & start RabbitMQ server <br />
+1. Install & start RabbitMQ server [brew services start/stop rabbitmq] <br />
 2. Run setup.sh to install dependencies <br />
 3. "go run"
 
